@@ -1,0 +1,3 @@
+gradlew setupDecompWorkspace idea
+gradlew build
+PAUSE
