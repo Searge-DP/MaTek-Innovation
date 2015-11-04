@@ -15,4 +15,10 @@ public class coalDust extends Item{
 		this.setTextureName("Mtk:coaldust");
 		
 	}
+	
+	@Override
+	public boolean hasEffect(ItemStack par1ItemStack){
+	return true;
+}
+	
 }
